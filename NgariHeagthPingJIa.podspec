@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 s.name         = "NgariHeagthPingJIa"
-s.version      = "0.1.0"
+s.version      = "0.0.1"
 #简介
 s.summary      = "医生端评价公共组件"
 s.description  = <<-DESC
