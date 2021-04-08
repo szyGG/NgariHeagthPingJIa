@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		504B8F3C261EE7F300515E4B /* NDpingjiaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 504B8F3A261EE7F300515E4B /* NDpingjiaViewController.m */; };
+		504B8F3D261EE7F300515E4B /* NDpingjiaViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 504B8F3B261EE7F300515E4B /* NDpingjiaViewController.xib */; };
 		50698B6A261ED43800B0C253 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 50698B69261ED43800B0C253 /* AppDelegate.m */; };
 		50698B6D261ED43800B0C253 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 50698B6C261ED43800B0C253 /* SceneDelegate.m */; };
 		50698B70261ED43800B0C253 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 50698B6F261ED43800B0C253 /* ViewController.m */; };
@@ -44,6 +46,9 @@
 		267E3A4D3F01D47B09DE268F /* Pods_NgariHeagthPingJIa.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NgariHeagthPingJIa.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C65CC310B75A8A8406C4EAF /* Pods_NgariHeagthPingJIaTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NgariHeagthPingJIaTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2CBAF5E0AE45AF9EF08D5538 /* Pods-NgariHeagthPingJIa-NgariHeagthPingJIaUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NgariHeagthPingJIa-NgariHeagthPingJIaUITests.release.xcconfig"; path = "Target Support Files/Pods-NgariHeagthPingJIa-NgariHeagthPingJIaUITests/Pods-NgariHeagthPingJIa-NgariHeagthPingJIaUITests.release.xcconfig"; sourceTree = "<group>"; };
+		504B8F39261EE7F300515E4B /* NDpingjiaViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = NDpingjiaViewController.h; sourceTree = "<group>"; };
+		504B8F3A261EE7F300515E4B /* NDpingjiaViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NDpingjiaViewController.m; sourceTree = "<group>"; };
+		504B8F3B261EE7F300515E4B /* NDpingjiaViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = NDpingjiaViewController.xib; sourceTree = "<group>"; };
 		50698B65261ED43800B0C253 /* NgariHeagthPingJIa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NgariHeagthPingJIa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		50698B68261ED43800B0C253 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		50698B69261ED43800B0C253 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -96,6 +101,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		504B8F38261EE7D700515E4B /* pinjia */ = {
+			isa = PBXGroup;
+			children = (
+				504B8F39261EE7F300515E4B /* NDpingjiaViewController.h */,
+				504B8F3A261EE7F300515E4B /* NDpingjiaViewController.m */,
+				504B8F3B261EE7F300515E4B /* NDpingjiaViewController.xib */,
+			);
+			path = pinjia;
+			sourceTree = "<group>";
+		};
 		50698B5C261ED43700B0C253 = {
 			isa = PBXGroup;
 			children = (
@@ -121,6 +136,7 @@
 		50698B67261ED43800B0C253 /* NgariHeagthPingJIa */ = {
 			isa = PBXGroup;
 			children = (
+				504B8F38261EE7D700515E4B /* pinjia */,
 				50698B68261ED43800B0C253 /* AppDelegate.h */,
 				50698B69261ED43800B0C253 /* AppDelegate.m */,
 				50698B6B261ED43800B0C253 /* SceneDelegate.h */,
@@ -285,6 +301,7 @@
 				50698B78261ED43900B0C253 /* LaunchScreen.storyboard in Resources */,
 				50698B75261ED43900B0C253 /* Assets.xcassets in Resources */,
 				50698B73261ED43800B0C253 /* Main.storyboard in Resources */,
+				504B8F3D261EE7F300515E4B /* NDpingjiaViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -378,6 +395,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				504B8F3C261EE7F300515E4B /* NDpingjiaViewController.m in Sources */,
 				50698B70261ED43800B0C253 /* ViewController.m in Sources */,
 				50698B6A261ED43800B0C253 /* AppDelegate.m in Sources */,
 				50698B7B261ED43900B0C253 /* main.m in Sources */,

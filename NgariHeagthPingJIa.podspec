@@ -35,7 +35,7 @@ s.resource_bundles = {
 }
 s.resources = ["NgariHeagthPingJIa/*.xcassets"]
 
-s.source_files = ["NgariHeagthPingJIa/**/*.{h,m}"]
+s.source_files = ["NgariHeagthPingJIa/pinjia/**/*.{h,m}"]
 
 #s.dependency 'NDToolsFramework'
 #s.dependency 'NDDataFramework'
