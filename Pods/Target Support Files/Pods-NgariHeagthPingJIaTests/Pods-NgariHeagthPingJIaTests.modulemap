@@ -1,0 +1,6 @@
+framework module Pods_NgariHeagthPingJIaTests {
+  umbrella header "Pods-NgariHeagthPingJIaTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

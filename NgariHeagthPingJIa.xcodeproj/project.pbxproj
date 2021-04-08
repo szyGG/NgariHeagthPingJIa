@@ -16,6 +16,9 @@
 		50698B7B261ED43900B0C253 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 50698B7A261ED43900B0C253 /* main.m */; };
 		50698B85261ED43A00B0C253 /* NgariHeagthPingJIaTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 50698B84261ED43A00B0C253 /* NgariHeagthPingJIaTests.m */; };
 		50698B90261ED43A00B0C253 /* NgariHeagthPingJIaUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 50698B8F261ED43A00B0C253 /* NgariHeagthPingJIaUITests.m */; };
+		5408FFF488D609BD81EEDCA2 /* Pods_NgariHeagthPingJIa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 267E3A4D3F01D47B09DE268F /* Pods_NgariHeagthPingJIa.framework */; };
+		DBD7DDB7CA5571098A4F28A7 /* Pods_NgariHeagthPingJIaTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2C65CC310B75A8A8406C4EAF /* Pods_NgariHeagthPingJIaTests.framework */; };
+		F0FE238A789C69AB11789125 /* Pods_NgariHeagthPingJIa_NgariHeagthPingJIaUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 52639C8F7752F594C2287015 /* Pods_NgariHeagthPingJIa_NgariHeagthPingJIaUITests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +39,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1530FC45312881F1C14C46E4 /* Pods-NgariHeagthPingJIaTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NgariHeagthPingJIaTests.release.xcconfig"; path = "Target Support Files/Pods-NgariHeagthPingJIaTests/Pods-NgariHeagthPingJIaTests.release.xcconfig"; sourceTree = "<group>"; };
+		20729EB069B18D571075A016 /* Pods-NgariHeagthPingJIaTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NgariHeagthPingJIaTests.debug.xcconfig"; path = "Target Support Files/Pods-NgariHeagthPingJIaTests/Pods-NgariHeagthPingJIaTests.debug.xcconfig"; sourceTree = "<group>"; };
+		267E3A4D3F01D47B09DE268F /* Pods_NgariHeagthPingJIa.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NgariHeagthPingJIa.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2C65CC310B75A8A8406C4EAF /* Pods_NgariHeagthPingJIaTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NgariHeagthPingJIaTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2CBAF5E0AE45AF9EF08D5538 /* Pods-NgariHeagthPingJIa-NgariHeagthPingJIaUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NgariHeagthPingJIa-NgariHeagthPingJIaUITests.release.xcconfig"; path = "Target Support Files/Pods-NgariHeagthPingJIa-NgariHeagthPingJIaUITests/Pods-NgariHeagthPingJIa-NgariHeagthPingJIaUITests.release.xcconfig"; sourceTree = "<group>"; };
 		50698B65261ED43800B0C253 /* NgariHeagthPingJIa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NgariHeagthPingJIa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		50698B68261ED43800B0C253 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		50698B69261ED43800B0C253 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -54,6 +62,10 @@
 		50698B8B261ED43A00B0C253 /* NgariHeagthPingJIaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NgariHeagthPingJIaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		50698B8F261ED43A00B0C253 /* NgariHeagthPingJIaUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NgariHeagthPingJIaUITests.m; sourceTree = "<group>"; };
 		50698B91261ED43A00B0C253 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		52639C8F7752F594C2287015 /* Pods_NgariHeagthPingJIa_NgariHeagthPingJIaUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NgariHeagthPingJIa_NgariHeagthPingJIaUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		749F86A5C4518B74E4A6AC39 /* Pods-NgariHeagthPingJIa.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NgariHeagthPingJIa.release.xcconfig"; path = "Target Support Files/Pods-NgariHeagthPingJIa/Pods-NgariHeagthPingJIa.release.xcconfig"; sourceTree = "<group>"; };
+		AB42BA36203DC852C287E81A /* Pods-NgariHeagthPingJIa.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NgariHeagthPingJIa.debug.xcconfig"; path = "Target Support Files/Pods-NgariHeagthPingJIa/Pods-NgariHeagthPingJIa.debug.xcconfig"; sourceTree = "<group>"; };
+		B48068A06073BD57C76C7F57 /* Pods-NgariHeagthPingJIa-NgariHeagthPingJIaUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NgariHeagthPingJIa-NgariHeagthPingJIaUITests.debug.xcconfig"; path = "Target Support Files/Pods-NgariHeagthPingJIa-NgariHeagthPingJIaUITests/Pods-NgariHeagthPingJIa-NgariHeagthPingJIaUITests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +73,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5408FFF488D609BD81EEDCA2 /* Pods_NgariHeagthPingJIa.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -68,6 +81,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DBD7DDB7CA5571098A4F28A7 /* Pods_NgariHeagthPingJIaTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -75,6 +89,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F0FE238A789C69AB11789125 /* Pods_NgariHeagthPingJIa_NgariHeagthPingJIaUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -88,6 +103,8 @@
 				50698B83261ED43A00B0C253 /* NgariHeagthPingJIaTests */,
 				50698B8E261ED43A00B0C253 /* NgariHeagthPingJIaUITests */,
 				50698B66261ED43800B0C253 /* Products */,
+				507ED7713B14D694A70D9612 /* Pods */,
+				74453FECE99C42BFFEBA48DA /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -137,6 +154,30 @@
 			path = NgariHeagthPingJIaUITests;
 			sourceTree = "<group>";
 		};
+		507ED7713B14D694A70D9612 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				AB42BA36203DC852C287E81A /* Pods-NgariHeagthPingJIa.debug.xcconfig */,
+				749F86A5C4518B74E4A6AC39 /* Pods-NgariHeagthPingJIa.release.xcconfig */,
+				B48068A06073BD57C76C7F57 /* Pods-NgariHeagthPingJIa-NgariHeagthPingJIaUITests.debug.xcconfig */,
+				2CBAF5E0AE45AF9EF08D5538 /* Pods-NgariHeagthPingJIa-NgariHeagthPingJIaUITests.release.xcconfig */,
+				20729EB069B18D571075A016 /* Pods-NgariHeagthPingJIaTests.debug.xcconfig */,
+				1530FC45312881F1C14C46E4 /* Pods-NgariHeagthPingJIaTests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		74453FECE99C42BFFEBA48DA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				267E3A4D3F01D47B09DE268F /* Pods_NgariHeagthPingJIa.framework */,
+				52639C8F7752F594C2287015 /* Pods_NgariHeagthPingJIa_NgariHeagthPingJIaUITests.framework */,
+				2C65CC310B75A8A8406C4EAF /* Pods_NgariHeagthPingJIaTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -144,6 +185,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 50698B94261ED43A00B0C253 /* Build configuration list for PBXNativeTarget "NgariHeagthPingJIa" */;
 			buildPhases = (
+				701ABCC7EA15E07E4B179DE3 /* [CP] Check Pods Manifest.lock */,
 				50698B61261ED43800B0C253 /* Sources */,
 				50698B62261ED43800B0C253 /* Frameworks */,
 				50698B63261ED43800B0C253 /* Resources */,
@@ -161,6 +203,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 50698B97261ED43A00B0C253 /* Build configuration list for PBXNativeTarget "NgariHeagthPingJIaTests" */;
 			buildPhases = (
+				8A1D6D2F3A3C91694B747DF7 /* [CP] Check Pods Manifest.lock */,
 				50698B7C261ED43A00B0C253 /* Sources */,
 				50698B7D261ED43A00B0C253 /* Frameworks */,
 				50698B7E261ED43A00B0C253 /* Resources */,
@@ -179,6 +222,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 50698B9A261ED43A00B0C253 /* Build configuration list for PBXNativeTarget "NgariHeagthPingJIaUITests" */;
 			buildPhases = (
+				571E8AF11C8F638C346FEAF3 /* [CP] Check Pods Manifest.lock */,
 				50698B87261ED43A00B0C253 /* Sources */,
 				50698B88261ED43A00B0C253 /* Frameworks */,
 				50698B89261ED43A00B0C253 /* Resources */,
@@ -260,6 +304,75 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		571E8AF11C8F638C346FEAF3 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-NgariHeagthPingJIa-NgariHeagthPingJIaUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		701ABCC7EA15E07E4B179DE3 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-NgariHeagthPingJIa-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		8A1D6D2F3A3C91694B747DF7 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-NgariHeagthPingJIaTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		50698B61261ED43800B0C253 /* Sources */ = {
@@ -438,6 +551,7 @@
 		};
 		50698B95261ED43A00B0C253 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = AB42BA36203DC852C287E81A /* Pods-NgariHeagthPingJIa.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -455,6 +569,7 @@
 		};
 		50698B96261ED43A00B0C253 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 749F86A5C4518B74E4A6AC39 /* Pods-NgariHeagthPingJIa.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -472,6 +587,7 @@
 		};
 		50698B98261ED43A00B0C253 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 20729EB069B18D571075A016 /* Pods-NgariHeagthPingJIaTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -491,6 +607,7 @@
 		};
 		50698B99261ED43A00B0C253 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1530FC45312881F1C14C46E4 /* Pods-NgariHeagthPingJIaTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
@@ -510,6 +627,7 @@
 		};
 		50698B9B261ED43A00B0C253 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B48068A06073BD57C76C7F57 /* Pods-NgariHeagthPingJIa-NgariHeagthPingJIaUITests.debug.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = NgariHeagthPingJIaUITests/Info.plist;
@@ -527,6 +645,7 @@
 		};
 		50698B9C261ED43A00B0C253 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2CBAF5E0AE45AF9EF08D5538 /* Pods-NgariHeagthPingJIa-NgariHeagthPingJIaUITests.release.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				INFOPLIST_FILE = NgariHeagthPingJIaUITests/Info.plist;
